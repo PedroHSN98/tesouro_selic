@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d092bfc8-e1a2-4499-b535-8cb8ff891f7e)# Simulador Tesouro Selic
+# Simulador Tesouro Selic
 
 ## 📖 Descrição
 Este é um simulador de investimento para o **Tesouro Selic** desenvolvido em Python utilizando o **Streamlit**. Ele permite calcular e visualizar a evolução de um investimento com base em:
@@ -76,7 +76,8 @@ simulador-tesouro-selic/
 
 ## 🖼️ Demonstração
 ### Tela Inicial
-![Tela Inicial](https://via.placeholder.com/800x400.png?text=Simulador+Tesouro+Selic)
+![Tela Inicial]![image](https://github.com/user-attachments/assets/d092bfc8-e1a2-4499-b535-8cb8ff891f7e)
+
 
 ---
 
