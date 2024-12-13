@@ -105,5 +105,5 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` p
 ---
 
 ## 👤 Autor
-**Seu Nome**  
+**Pedro Henrique Santana Nascimento**  
 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-santana-nascimento-1591aa24b/) • [GitHub](https://github.com/PedroHSN98)
