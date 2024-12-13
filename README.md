@@ -76,7 +76,7 @@ simulador-tesouro-selic/
 
 ## 🖼️ Demonstração
 ### Tela Inicial
-![Tela Inicial]![image](https://github.com/user-attachments/assets/d092bfc8-e1a2-4499-b535-8cb8ff891f7e)
+![image](https://github.com/user-attachments/assets/d092bfc8-e1a2-4499-b535-8cb8ff891f7e)
 
 
 ---
