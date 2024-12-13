@@ -106,4 +106,4 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` p
 
 ## 👤 Autor
 **Seu Nome**  
-[LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-santana-nascimento-1591aa24b/) • [GitHub](https://github.com/PedroHSN98)
